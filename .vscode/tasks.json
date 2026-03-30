@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Render Manim Scene",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "-m",
+        "manim",
+        "-pql",
+        "${file}",
+        "SquareToCircle"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Hp/Desktop/MANIM/media/videos/Scene2/480p15/partial_movie_files/CoupledOscillator/1584795214_2632798288_223132457.mp4'
+file 'file:C:/Users/Hp/Desktop/MANIM/media/videos/Scene2/480p15/partial_movie_files/CoupledOscillator/4072820271_1454739485_3422361092.mp4'
+file 'file:C:/Users/Hp/Desktop/MANIM/media/videos/Scene2/480p15/partial_movie_files/CoupledOscillator/4072820271_682808865_2621759648.mp4'
+file 'file:C:/Users/Hp/Desktop/MANIM/media/videos/Scene2/480p15/partial_movie_files/CoupledOscillator/4072820271_3201849554_17843530.mp4'
+file 'file:C:/Users/Hp/Desktop/MANIM/media/videos/Scene2/480p15/partial_movie_files/CoupledOscillator/4072820271_3024441366_1616528325.mp4'
