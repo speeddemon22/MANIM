@@ -1,4 +1,4 @@
-# Coupled Oscillators & Normal Modes ✨
+# Coupled Oscillators & Normal Modes 
 
 **Manim animations** of advanced physics from Oscillations & Waves course.
 
